@@ -39,7 +39,7 @@ Example:
 # Function to fetch YouTube video suggestions
 
 def fetch_youtube_videos(query):
-    API_KEY = "AIzaSyD-XpxtHYbXABlJyTJEMHlpDz8MtJGzapc"  # Replace with your valid API key
+    API_KEY = " "  # Replace with your valid API key
     search_query = f"{query}"
 
     search_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={search_query}&type=video&key={API_KEY}&maxResults=3"
