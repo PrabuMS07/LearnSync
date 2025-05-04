@@ -93,9 +93,3 @@ Before running LearnSync, ensure you have the following installed and configured
 *   Refine the UI/UX for better navigation and presentation.
 
 
-Permission is hereby granted...
-```
-
-*(Remember to replace `[Year]` and `[Your Name]` and include the full MIT license text if you choose this one)*
-
----
